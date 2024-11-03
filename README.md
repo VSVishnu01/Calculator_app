@@ -2,7 +2,7 @@
 
 A graphical user interface (GUI) calculator built using Python's Tkinter library. This calculator can perform basic arithmetic operations and provides an easy-to-use interface similar to standard calculators.
 
-![Screenshot_Calculator](Screenshot_Calculator.png)
+![Screenshot_Calculator](assets/Screenshot_Calculator.png)
 
 ## Table of Contents
 
