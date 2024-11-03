@@ -7,6 +7,7 @@ A graphical user interface (GUI) calculator built using Python's Tkinter library
 ## Table of Contents
 
 - [Features](#features)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contact](#contact)
@@ -18,6 +19,13 @@ A graphical user interface (GUI) calculator built using Python's Tkinter library
 - **Clear Functionality**: Clear the display to start a new calculation.
 - **Responsive Design**: Adjusts the layout for different screen sizes.
 - **Keyboard Bindings**: Use keyboard keys for faster input.
+
+## Requirements
+
+To run this project, you need:
+
+- **Python**
+- **Tkinter** (comes pre-installed with most Python distributions)
 
 ## Usage
 
