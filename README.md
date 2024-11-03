@@ -35,19 +35,21 @@ A graphical user interface (GUI) calculator built using Python's Tkinter library
   - `*` for Multiplication
   - `/` for Division
 - **Clear**: `C` or `Delete`
-- **Square**: `Shift + S`
-- **Square Root**: `Ctrl + R`
+- **Square**: `Right Shift`
+- **Square Root**: `Right Ctrl`
 - **Calculate/Equals**: `Enter`
 
 ## Project Structure
 
 ```
-calculator-app/
+Calculator-app/
 │
-├── calculator.py # Main Python script for the calculator
+├── Calculator.py # Main Python script for the calculator
 ├── README.md # Readme file for the project
 └── assets/
-    └── screenshot.png # Screenshot of the calculator UI
+    └── Screenshot_Calculator.png # Screenshot of the calculator UI
+    └── calculator_icon.ico # Icon images for creating icon
+    
 ```
 
 ## Contact
